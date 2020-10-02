@@ -2,7 +2,8 @@
   "arch": [
     "amd64",
     "armv7",
-    "aarch64"
+    "aarch64",
+    "i386"
   ],
   "auth_api": true,
   "auto_uart": true,
